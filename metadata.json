@@ -1,0 +1,6 @@
+{
+  "name": "Apps Script WebApp",
+  "description": "Visualizza e gestisci le tue web app Google Apps Script come un'applicazione nativa Android, con persistenza e controlli web avanzati.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
